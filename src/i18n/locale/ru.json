@@ -646,7 +646,7 @@
   "components.Dashboard.noData": "Данные коллекций отсутствуют",
   "components.Settings.OverseerrModal.loadingRootFolders": "",
   "components.PostersView.continue": "",
-  "components.Collections.BulkEditModal.autoApproveMovies": "Автоматически одобрять фильмы",
+  "components.Collections.BulkEditModal.autoApproveMovies": "Автоматическое одобрение фильмов",
   "components.Collections.FormSections.posterUploadErrorType": "",
   "components.Collections.FormSections.sourceSubtype": "Подтип коллекции",
   "components.PostersView.plexOption": "",
